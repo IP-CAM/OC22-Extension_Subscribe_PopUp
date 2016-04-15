@@ -1,4 +1,6 @@
-Module preview card product category page.
+Module subscription to the newsletter in a PopUp window
+
+Tested on OpenCart version 2.2.0.0
 
 *** Don't forget to backup your files ***
 
@@ -7,7 +9,7 @@ Just extract and put in to the root of your opencart installation and go to admi
 If you found some errors, drop me a message.
 
 ### Version
-1.0.0
+0.0.1
 
 ### Author
-Developed by: Robert Bogach no48@ua.fm
+Developed by: Robert Bogach robert.bogach@gmail.com
