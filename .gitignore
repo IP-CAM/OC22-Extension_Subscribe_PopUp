@@ -50,6 +50,4 @@ Temporary Items
 # No project resource
 # =========================
 
-module-payson-opencart-2-2-master
-OpencartCallBackForm-master
-QuickView
+*.zip
